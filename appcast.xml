@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>BKSTMT</title>
+    <link>https://github.com/sideways-living/bkstmt-updates</link>
+    <description>Signed and notarised BKSTMT updates.</description>
+    <language>en-au</language>
+  </channel>
+</rss>
