@@ -3,15 +3,15 @@
     <channel>
         <title>BKSTMT</title>
         <item>
-            <title>0.2.7</title>
-            <pubDate>Wed, 07 Oct 2026 09:24:15 +0000</pubDate>
-            <sparkle:version>994</sparkle:version>
-            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <title>0.2.8</title>
+            <pubDate>Wed, 07 Oct 2026 20:36:13 +0000</pubDate>
+            <sparkle:version>995</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Restores saved profiles and settings after upgrading from development builds.
+            <description sparkle:format="markdown"><![CDATA[Adds persistent profile renaming and safe template-aware profile duplication.
 ]]></description>
-            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.7/BKSTMT-0.2.7.zip" length="8052797" type="application/octet-stream" sparkle:edSignature="4GGLcIJo+GkkYu29jZfRIaTRoJO1o8NAn9fuArW8OgRgwIRUIcciUAHwrivhOwhSipTT0oKeUKB+Vi2EsBDSDg=="/>
+            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.8/BKSTMT-0.2.8.zip" length="8094486" type="application/octet-stream" sparkle:edSignature="cEXylFxCGdMPOgD9EWs2JLW0omD7IU9zjKdrCB18Azh+RXJ2i/+zSIoZKCU0pyrrJv1sY/ezX5mqWL8a+PqFCQ=="/>
         </item>
     </channel>
 </rss>
