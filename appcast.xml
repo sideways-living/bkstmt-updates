@@ -3,15 +3,15 @@
     <channel>
         <title>BKSTMT</title>
         <item>
-            <title>0.2.8</title>
-            <pubDate>Wed, 07 Oct 2026 20:36:13 +0000</pubDate>
-            <sparkle:version>995</sparkle:version>
-            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <title>0.2.9</title>
+            <pubDate>Wed, 07 Oct 2026 21:11:36 +0000</pubDate>
+            <sparkle:version>996</sparkle:version>
+            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Adds persistent profile renaming and safe template-aware profile duplication.
+            <description sparkle:format="markdown"><![CDATA[Adds selectable profile duplication, automatic Full Name - Template profile naming, and separate Redbank Business One and Redbank Choice templates.
 ]]></description>
-            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.8/BKSTMT-0.2.8.zip" length="8094486" type="application/octet-stream" sparkle:edSignature="cEXylFxCGdMPOgD9EWs2JLW0omD7IU9zjKdrCB18Azh+RXJ2i/+zSIoZKCU0pyrrJv1sY/ezX5mqWL8a+PqFCQ=="/>
+            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.9/BKSTMT-0.2.9.zip" length="8205192" type="application/octet-stream" sparkle:edSignature="kBy9h6pPs/u8FCL2DiHQg0ZQBEMedgzlWKeNmoq6xXUSmLZyhCHwA8doLCwYyUYI+3b/AwmbLj2SwWy+hpTxAw=="/>
         </item>
     </channel>
 </rss>
