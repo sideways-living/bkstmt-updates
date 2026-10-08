@@ -3,15 +3,15 @@
     <channel>
         <title>BKSTMT</title>
         <item>
-            <title>0.2.10</title>
-            <pubDate>Thu, 08 Oct 2026 02:39:11 +0000</pubDate>
-            <sparkle:version>1004</sparkle:version>
-            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+            <title>0.2.11</title>
+            <pubDate>Thu, 08 Oct 2026 03:44:21 +0000</pubDate>
+            <sparkle:version>1005</sparkle:version>
+            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Fixes duplicated suburb names in Yellowbank merchant descriptions after converting profiles from Redbank and stabilises release validation.
+            <description sparkle:format="markdown"><![CDATA[Fixes Sparkle updater startup and adds an in-app retry with specific diagnostics when updater configuration fails.
 ]]></description>
-            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.10/BKSTMT-0.2.10.zip" length="10227794" type="application/octet-stream" sparkle:edSignature="DzX00XJAGEWDj3bRSSKFOiCPso3aGj+6Y8HEVBbqHFpzzmW1D/uUeH6IW9QGvBRjlcxMuRaXXmLww0QDcWRoAw=="/>
+            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.11/BKSTMT-0.2.11.zip" length="10228543" type="application/octet-stream" sparkle:edSignature="owrbOGekZPxypCrS8p4hSU0/ChTg9qcKvB6ioOsK9ZOWuaGZT7dWJszUbTQY8aQ9D53VJdmlGO686OA7SxmoBA=="/>
         </item>
     </channel>
 </rss>
