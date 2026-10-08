@@ -1,0 +1,8 @@
+{
+  "version": "0.2.10",
+  "downloadURL": "https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.10/BKSTMT-0.2.10.pkg",
+  "sha256": "1d3d19f065974441d7b15063252f56b34aa74e3e8d1668a06465962626bf3bd9",
+  "minimumSystemVersion": "15.0",
+  "automaticallyDownloads": true,
+  "notes": "Fixes duplicated suburb names in Yellowbank merchant descriptions after converting profiles from Redbank and stabilises release validation."
+}
