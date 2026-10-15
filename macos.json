@@ -1,8 +1,8 @@
 {
-  "version": "0.2.11",
-  "downloadURL": "https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.11/BKSTMT-0.2.11.pkg",
-  "sha256": "f8817a27f319671d703773c843ac5d28ba1cd32818eef7a37dfd956da9f1f3fb",
+  "version": "0.2.13",
+  "downloadURL": "https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.13/BKSTMT-0.2.13.pkg",
+  "sha256": "a4debb196dea4c71f5e4343fcaaca1d60266c160594e132e1a91e36e69a1afeb",
   "minimumSystemVersion": "15.0",
   "automaticallyDownloads": true,
-  "notes": "Fixes Sparkle updater startup and adds an in-app retry with specific diagnostics when updater configuration fails."
+  "notes": "Improves merchant variety within monthly statements, expands LCTR store-number coverage, fixes Yellowbank pagination, and repairs macOS installer packaging."
 }

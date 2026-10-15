@@ -3,15 +3,15 @@
     <channel>
         <title>BKSTMT</title>
         <item>
-            <title>0.2.11</title>
-            <pubDate>Thu, 08 Oct 2026 03:44:21 +0000</pubDate>
-            <sparkle:version>1005</sparkle:version>
-            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+            <title>0.2.13</title>
+            <pubDate>Thu, 15 Oct 2026 12:48:07 +1100</pubDate>
+            <sparkle:version>1010</sparkle:version>
+            <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Fixes Sparkle updater startup and adds an in-app retry with specific diagnostics when updater configuration fails.
+            <description sparkle:format="markdown"><![CDATA[Improves merchant variety within monthly statements, expands LCTR store-number coverage, fixes Yellowbank pagination, and repairs macOS installer packaging.
 ]]></description>
-            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.11/BKSTMT-0.2.11.zip" length="10228543" type="application/octet-stream" sparkle:edSignature="owrbOGekZPxypCrS8p4hSU0/ChTg9qcKvB6ioOsK9ZOWuaGZT7dWJszUbTQY8aQ9D53VJdmlGO686OA7SxmoBA=="/>
+            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.13/BKSTMT-0.2.13.zip" length="8099578" type="application/octet-stream" sparkle:edSignature="aGf2SU2GRkO42P5KgGhzhLy3dZexDeRDe+3A0oaFwld8nm7rRUC7xkVInV/efgAoND+GWTrXQlX5o2wsJdFdCg=="/>
         </item>
     </channel>
 </rss>
