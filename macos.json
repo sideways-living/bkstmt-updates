@@ -1,8 +1,8 @@
 {
-  "version": "0.2.14",
-  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.14/BKSTMT-0.2.14.pkg",
-  "sha256": "d80223d5adbeee397dad1249941f397c0a5e30aa58efcdc6a2c8f9b901d87a05",
+  "version": "0.2.23",
+  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.23/BKSTMT-0.2.23.pkg",
+  "sha256": "9e8c3b201a172a1e63bd5686842591e143fbff3229e21b533f070172a187abe1",
   "minimumSystemVersion": "15.0",
   "automaticallyDownloads": true,
-  "notes": "Fixes the disabled Check for Updates command, removes generic salary suffixes across all statement templates, requires explicit delivery-subscription selection, and standardises retailer store-number descriptions."
+  "notes": "Generate realistic purchase cents while preserving category and merchant limits, child expense allocation, page-level merchant variety, progress targets, and exact statement balances."
 }
